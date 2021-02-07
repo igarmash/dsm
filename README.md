@@ -111,6 +111,8 @@ Ein Ausfall des Primary BLS SWVPS001 hat zur Folge, dass das Bedienen der DSM Co
 
 * Wenn Primary BLS erreichbart ist
 * Wenn Primary BLS nicht erreichbar ist
+* Falsches URL angeben
+* BLS angeben, welches nicht ein Bestandteil der 'List of preffered BLS(s)' ist
 
 >Another option is to start the DSMC with a special command line parameter "/BlsUrl":
 >
